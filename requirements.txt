@@ -1,0 +1,9 @@
+cv2
+face_recognition
+numpy
+tqdm
+deepface
+speechrecognition
+transformers
+moviepy
+ollama
