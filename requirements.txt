@@ -1,9 +1,10 @@
-cv2
-face_recognition
-numpy
+mediapipe
+opencv-python
 tqdm
+face-recognition
 deepface
-speechrecognition
-transformers
+SpeechRecognition
 moviepy
+transformers
 ollama
+tf-keras

@@ -1,0 +1,16 @@
+Frame	Tempo (s)	Emocao
+554	18.47	Movimento Anomalo
+608	20.27	Movimento dos Braços
+679	22.63	Movimento Anomalo
+682	22.73	Movimento Anomalo
+709	23.63	Movimento Anomalo
+713	23.77	Movimento Anomalo
+718	23.93	Movimento Anomalo
+1080	36.00	Mãos tocando o rosto
+1260	42.00	Mãos tocando o rosto
+1315	43.83	Movimento dos Braços
+1894	63.13	Movimento Anomalo
+1938	64.60	Movimento Anomalo
+1952	65.07	Mãos tocando o rosto
+1965	65.50	Mãos tocando o rosto
+3068	102.27	Movimento dos Braços

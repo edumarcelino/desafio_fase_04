@@ -1,22 +1,52 @@
-**Título:** Análise Facial e Reconhecimento em Vídeo
+1. **Analise as emoções e os timestamps das transcrições**:
 
-**Palavras-chave:**
-- Reconhecimento facial
-- Análise de vídeo
-- Expressões faciais
-- Interpretação emocional
-- Tecnologia
+    - Emocao: ever (não especificada), wondered, illuminated, Lively, each, tells a story, vibrant
+    - Tempo: 0.00, 10.00, 20.00, 30.00
 
-**Informações adicionais:**
-O conteúdo aborda a capacidade do reconhecimento facial na análise de vídeos, destacando como cada expressão e movimento é uma parte importante desse processo. Além disso, destaca a importância da compreensão das emoções humanas no contexto do reconhecimento facial.
+    Inferências:
+    - O início do vídeo fala sobre a curiosidade do autor.
+    - Em seguida, há uma descrição de pessoas lendo e conversando.
+    - As expressões faciais são descritas como reveladoras da personalidade das pessoas.
 
-**Timestamps:**
-- 0.00-10.00: Introdução ao tema do reconhecimento facial
-- 10.00-20.00: Análise de expressões faciais em contextos sociais
-- 20.00-30.00: Discussão sobre a tecnologia de reconhecimento facial
-- 30.00-40.00: Apresentação do conceito como uma "Mosaic visual" da interação humana
-- 40.00-50.00: Análise do processo de análise em vídeo com foco nas emoções humanas
+2. **Analise os movimentos e os timestamps das transcrições**:
 
-**Resumo Enriquecido:** O conteúdo de "Análise Facial e Reconhecimento em Vídeo" fornece uma visão profunda sobre como o reconhecimento facial utiliza expressões faciais, movimentos e emoções para entender indivíduos. Este processo não apenas é um avanço tecnológico, mas também uma interpretação emocional complexa. Cada expressão revela uma história única, e juntas, elas formam uma "Mosaic visual" que captura a essência da interação humana. A análise de vídeo nesse contexto não apenas analisa características físicas, mas entende o mundo emocional por trás delas.
+    Frame	Tempo (s)	Emocao
+    554	18.47	Movimento Anomalo
+    608	20.27	Movimento dos Braços
+    679	22.63	Movimento Anomalo
+    682	22.73	Movimento Anomalo
+    709	23.63	Movimento Anomalo
+    713	23.77	Movimento Anomalo
+    718	23.93	Movimento Anomalo
+    1080	36.00	Mãos tocando o rosto
+    1260	42.00	Mãos tocando o rosto
+    1315	43.83	Movimento dos Braços
+    1894	63.13	Movimento Anomalo
+    1938	64.60	Movimento Anomalo
+    1952	65.07	Mãos tocando o rosto
+    1965	65.50	Mãos tocando o rosto
+    3068	102.27	Movimento dos Braços
 
-**Nota:** As palavras-chave foram escolhidas com base no conteúdo fornecido, destacando termos centrais do tema.
+    Inferências:
+    - Existem movimentos anormais que podem indicar reações emocionais.
+    - Há movimentos de braços, mas também de mãos, que podem estar relacionados a gesturas ou interações físicas.
+
+3. **Enriqueça o resumo**:
+
+O vídeo analisa a aplicação da tecnologia de reconhecimento facial em contextos cotidianos. Iniciando com uma discussão sobre como essa tecnologia permeia nossas vidas, passa por detalhes dos movimentos humanos que são capturados por câmeras e inteligência artificial, revelando o impacto desse avanço na forma como percebemos as pessoas ao nosso redor.
+
+4. **Gere a saída com o resumo enriquecido**:
+
+    Título:   Tecnologia de Reconhecimento Facial em Nossas Vidas
+
+    Palavras-chave: Reconhecimento Facial, Tecnologia, Análise de Vídeo, Emoções Humanas
+
+    Informações adicionais:
+    - O vídeo foi uma análise detalhada sobre como a tecnologia de reconhecimento facial está presente na nossa vida cotidiana.
+    - As emoções capturadas durante o vídeo incluem curiosidade, observação de interações sociais e reações emocionais.
+
+    Timestamps:
+    - 0.00 - Início do vídeo: O início do vídeo fala sobre a curiosidade do autor.
+    - 10.00 - Discussão sobre reconhecimento facial: A discussão começa a explorar como essa tecnologia permeia nossas vidas, de forma mais abrangente.
+    - 20.00 - Observação de interações sociais: As expressões faciais são descritas como reveladoras da personalidade das pessoas.
+    - 30.00 - Análise detalhada do movimento humano: Existem movimentos anormais que podem indicar reações emocionais, e há movimentos de braços e mãos que podem estar relacionados a gesturas ou interações físicas.
