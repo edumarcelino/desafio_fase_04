@@ -1,4 +1,4 @@
-Frame	Tempo (s)	Emocao
+Frame	Tempo (s)	Atividade
 554	18.47	Movimento Anomalo
 608	20.27	Movimento dos Braços
 679	22.63	Movimento Anomalo

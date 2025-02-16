@@ -37,7 +37,7 @@ def detect_pose_with_holistic(video_path, output_path):
     # Abre o arquivo TXT para escrita
     txt_file = open(txt_path, 'w', encoding='utf-8')
     # Escreve o cabeçalho com 3 colunas
-    txt_file.write("Frame\tTempo (s)\tEmocao\n")
+    txt_file.write("Frame\tTempo (s)\tAtividade\n")
 
     # Estados para braços (>= 0.3s)
     arm_up_state = {
@@ -105,9 +105,6 @@ def detect_pose_with_holistic(video_path, output_path):
         # 2) Braços levantados (>= 0.3s)
         if results.pose_landmarks:
             arms_up_now = arms_up_in_frame(results.pose_landmarks.landmark)
-            # Chamamos a função, mas agora PRECISAMOS escrever no TXT (não CSV)
-            # Então, vamos modificar a lógica para registrar diretamente no TXT
-            # Veja abaixo como adaptar no final do loop
             handle_arm_up_event_custom(
                 frame_idx=frame_idx,
                 fps=fps,
